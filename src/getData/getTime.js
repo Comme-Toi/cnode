@@ -1,3 +1,4 @@
+/* 获取时间 */
 function getDateDiff(dateTimeStamp) {
   var minute = 1000 * 60;
   var hour = minute * 60;

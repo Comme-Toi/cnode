@@ -21,6 +21,7 @@ import Detail from '../components/topics/detail'
 
 Vue.use(Router);
 
+/* 路由配置 */
 export default new Router({
   routes: [
     {
